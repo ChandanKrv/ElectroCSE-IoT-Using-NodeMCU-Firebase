@@ -1,0 +1,68 @@
+
+Video Title: 1.Nodemcu ESP8266 Starting Guide With Firebase |ElectroCSE
+Video Link: https://youtu.be/LbAyv5OZXeo?list=PLxNS6bBqf65DrYy_kN44FDGjFsKfUY3Cz
+
+
+
+
+Video Description:
+In this video I have used:- Node MCU ESP8266, Firebase Database, LED, Breadboard, Explained in HINDI, Arduino IDE, Some libraries, etc.
+#NodemcuESP8266 #StartingGuide With #Firebase #ElectroCSE
+Electocse mainly contains informative videos on:-
+1. IOT projects.
+2. Arduino tutorials.
+3. Electronics projects.
+4. Engineering Projects.
+5. Raspberry  Pi tutorials.
+6. Programming projects.
+7. Robotics/Arduino/Raspberry Pi
+Just you have to go through the playlist and you will get all the videos in a categorized way.
+
+Arduino Tutorials For Beginners in Hindi [PLAYLIST]
+https://www.youtube.com/playlist?list=PLxNS6bBqf65AwZoBvhvPmfEXW2_bs1K_U
+
+For Any Help or Discussion Join Our FB Group and Post Your Queries There.
+https://www.facebook.com/groups/electrocse
+
+Making CNC part-2 (Software part)
+https://youtu.be/vOwwWFeTwWc
+
+Making CNC part-1 (Hardware part)
+https://youtu.be/ZyGZpzcg-GE
+
+*********************************************************************
+1.Buy Node MCU ESP8266
+   https://amzn.to/3lvnn3j
+    OR
+  https://amzn.to/3bcrUTu
+
+2. Buy Micro USB for code uploading
+    https://amzn.to/2QD3dGy
+
+3. This link is used in the Video in Arduino IDE for downloading libraries/Board
+      http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+4.Details about PWM pin in this Video
+   https://youtu.be/AX3oHQ1Lwm0
+
+5.Download this Firebase Library File
+     https://github.com/ChandanKrv/ElectroCSE/tree/master/NodeMCU-Lecture-1
+
+Nodemcu ESP8266 detecting actual internet connection (2nd Video)
+https://youtu.be/TuueZVs4Yy8
+
+*********************************************************************
+Do subscribe to this channel for more informative videos and projects.
+
+To Contact:-
+https://www.electrocse.com
+https://www.instagram.com/electrocse/
+https://www.facebook.com/electrocse/
+For Help or Discussion join our FB group and post your query there
+https://www.facebook.com/groups/electrocse
+                                                                        
+DISCLAIMER: 
+Please don't go out of your way to or hate on anyone I talk about in my videos, this channel is to used for educational purposes under fair use, please don't go spreading hate. I won't responsible for any kind of shock circuit or any hazardous incident which is shown in videos please do under the guidance of parents or teachers.
+COPYRIGHT DISCLAIMER
+ Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
+#electrocse #chandanVarma
